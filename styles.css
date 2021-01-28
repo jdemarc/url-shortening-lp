@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  margin: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin: 20px;
+}
+
+.flex-wrapper {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
