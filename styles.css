@@ -17,9 +17,6 @@ header {
 
 .logo {
   display: flex;
-  align-items: center;
-  width: 13%;
-  /* margin: 20px; */
 }
 
 .flex-wrapper {
