@@ -18,12 +18,20 @@ header {
 .logo {
   display: flex;
   align-items: center;
+  width: 13%;
   /* margin: 20px; */
 }
 
 .flex-wrapper {
-  margin: 40px;
   display: flex;
   width: 100%;
   justify-content: space-between;
+}
+
+.lhs-pages, .rhs-pages {
+  display: flex;
+}
+
+.lhs-pages > div, .rhs-pages > div {
+  padding: 20px;
 }
